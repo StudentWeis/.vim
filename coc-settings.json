@@ -1,7 +1,0 @@
-{
-	"clangd.arguments": [
-		"--clang-tidy",
-		"--all-scopes-completion"
-	]
-
-}
